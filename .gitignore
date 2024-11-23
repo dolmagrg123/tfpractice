@@ -1,0 +1,7 @@
+# Terraform-specific sensitive files
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Terraform log files
+crash.log
